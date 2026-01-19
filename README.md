@@ -1,5 +1,7 @@
 # Flutter AI Dev Boilerplate
 
+**中文** | [English](./README_EN.md)
+
 一个为 AI 辅助开发量身定制的 Flutter 项目脚手架。包含严格的分层架构、文档驱动开发（DDD - Documentation Driven Development）流程以及 AI 友好的上下文管理。
 
 ## 核心特性
